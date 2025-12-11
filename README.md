@@ -59,7 +59,3 @@ python data_labeling_gui_english.py
 ## 📝 License
 
 This project is for academic and research purposes only.
-
----
-
-⭐ If this project helps you, feel free to star it!
